@@ -18,12 +18,12 @@
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/LuciferM1/RicoAnonySender
-$ cd RicoAnonymousSender
+$ cd RicoAnonySender
 # Install All Requirements 
-$ pip(3) install -r requirements.txt
+$ pip3 install -r requirements.txt
 # Edit vars
 # Start Bot 
-$ python(3) -m Sender
+$ python3 -m Sender
 ```
 ### Mandatory Vars 📒
 ```
